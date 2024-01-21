@@ -1,0 +1,1 @@
+# Decoding-the-S-P-500-Insights-from-Web-Data-and-R
